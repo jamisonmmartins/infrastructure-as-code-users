@@ -79,6 +79,14 @@ Abaixo estão prints da execução do script iac1.sh, mostrando a criação e co
 - Distribuição Linux
 - Acesso root ou permissão para usar sudo
 - Terminal Bash
+- Sistema operacional base: Windows 11 com WSL 2 (Windows Subsystem for Linux)
+
+## 💻 Ambiente de Desenvolvimento Utilizado
+Este script foi desenvolvido e testado em:
+
+- 💻 Sistema Operacional: Windows 11
+- 🐧 Distribuição Linux: Ubuntu 24.04 LTS
+- 🔧 Ambiente: WSL 2 (Windows Subsystem for Linux)
 
 ## ℹ️ Observações
 Este script foi criado para fins educacionais e pode ser adaptado para outros cenários.
