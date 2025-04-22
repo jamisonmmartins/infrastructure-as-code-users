@@ -80,10 +80,11 @@ chown root:GRP_VEN /home/ven
 chown root:GRP_SEC /home/sec
 chown root:GRP_ADM /home/adm
 
+echo ""
 echo "**** Fim do cadastro ****"
 echo ""
-echo ""
 
+echo ""
 echo "Lista de grupos recém cadastrados"
 cat /etc/group | grep GRP_VEN
 cat /etc/group | grep GRP_SEC
