@@ -8,7 +8,9 @@ Desenvolvido como parte de um desafio do bootcamp Linux, o objetivo é simular u
 
 ## 📂 Repositório
 
-➡️ Repositório oficial: [jamisonmmartins/infrastructure-as-code-users](https://github.com/jamisonmmartins/infrastructure-as-code-users)
+➡️ Repositório oficial: [`jamisonmmartins/infrastructure-as-code-users`](https://github.com/jamisonmmartins/infrastructure-as-code-users)
+
+📄 Acesse o script diretamente: [`jamisonmmartins/infrastructure-as-code-users/iac1.sh`](https://github.com/jamisonmmartins/infrastructure-as-code-users/blob/main/iac1.sh)
 
 ---
 
@@ -94,4 +96,4 @@ Não é recomendado executá-lo em ambientes de produção sem as devidas adapta
 
 ## 
 
-Feito com 💻 e ☕ por Jamison Martins
+#### Feito com 💻 e ☕ por Jamison Martins
